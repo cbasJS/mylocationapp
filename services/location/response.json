@@ -1,0 +1,16 @@
+{
+  "as": "AS6503 Axtel, S.A.B. de C.V.",
+  "city": "Mexico City",
+  "country": "Mexico",
+  "countryCode": "MX",
+  "isp": "Axtel",
+  "lat": 19.4342,
+  "lon": -99.1386,
+  "org": "Axtel",
+  "query": "187.177.77.99",
+  "region": "CMX",
+  "regionName": "Mexico City",
+  "status": "success",
+  "timezone": "America/Mexico_City",
+  "zip": "06300"
+}
